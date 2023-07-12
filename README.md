@@ -13,5 +13,9 @@ Esse projeto contém:
 <li>Padrão camadas</li>
 <li>Controller, service, repository</li>
 <li>Padrão DTO</li>
+<li>Relacionamento N-N</li>
+<li>Classe de associação embedded</li>
+<li>Consultas SQL no SpringDataJpa</li>
+<li>Projections</li>
 </ul>
 
