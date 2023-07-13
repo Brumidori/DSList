@@ -17,6 +17,11 @@ Intensivão spring DevSuperior - Nelio Alves
 <li>Classe de associação embedded</li>
 <li>Consultas SQL no SpringDataJpa</li>
 <li>Projections</li>
+<li>Perfis de projeto</li>
+<li>Ambiente local com Docker Compose</li>
+<li>Processo de homologação local</li>
+<li>Processo de deploy com CI/CD</li>
+<li>Configuração de CORS</li>
 </ul>
 
 ## Modelo de domínio DSList
